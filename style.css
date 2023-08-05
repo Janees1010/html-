@@ -1,0 +1,33 @@
+body{background-color:lightblue;}table, th, td{border:1px solid black;} 
+h1 {font size: width: 400px; text-align:center; color:darkblue: 50px;margin-top: 100px;}
+p {color:blue;border:1px solid black;}
+ul {color:darkblue;}
+figcaption {color:brown;font-size: larger;}
+p {font-size:larger;}
+p {text-transform: capitalize;}
+form{background-color:white;}
+button{color:aliceblue;background-color:lightblue;}
+link{margin-bottom:50px;}
+#one{background-color: lightgray;}
+#h1{color:red;}
+div label{background-color:white;}
+input{color:red;}
+p:hover{
+    color:red;
+}
+button:hover{color:crimson;background-color:red;}
+li:nth-child(3){color:brown;}
+a:visited{color:green;}
+a:hover{color:black;}
+a:active{color:red;}
+a:link{color:blue;}
+#outer {
+    padding:20px;
+    
+    background-color: yellow;
+    
+}
+#inner {background-color: bisque;}
+*{font-size: 1.2rem;}
+#inner> p{color:red;}
+
